@@ -1,65 +1,87 @@
-.head {
-  border: 1px solid #333;
-  padding: 50px;
-  text-align:center;
-  margin:auto;
-  width:500px;
-  background-color: white;
-  }
-.head h1{
-  color: #d64161;
+
+.head
+{
+	border: 1px solid #333;
+	padding: 50px;
+	text-align:center;
+	margin:auto;
+	width:500px;
+	background-color: white;
 }
-.head a{
-  color: white;
-  display:block;
-  width:150px;
-  line-height:50px;
-  text-align:center;
-  vertical-align:middle;
-  background-color: #d64161;
-  text-decoration:none;
-  margin:auto;
+
+.head h1
+{
+	color: #d64161;
 }
-.head p{
-  text-align: left;
+
+.head a
+{
+	color: white;
+	display:block;
+	width:150px;
+	line-height:50px;
+	text-align:center;
+	vertical-align:middle;
+	background-color: #d64161;
+	text-decoration:none;
+	margin:auto;
 }
-.head img{
-overflow:hidden;
--webkit-border-radius:50px;
--moz-border-radius:50px;
-border-radius:50px;
-width:90px;
-height:90px;
+
+.head p
+{
+	text-align: left;
 }
-.link {
-  border: 1px solid #333;
-  padding: 50px;
-  text-align:center;
-  margin:auto;
-  width:500px;
-  background-color: white;
-  text-decoration: none;
-  }
-.link ul li{
-  display: inline-block;
-  width: 0px 10px 0px 0px;
-  text-decoration: none;
+
+.head img
+{
+	overflow:hidden;
+	-webkit-border-radius:50px;
+	-moz-border-radius:50px;
+	border-radius:50px;
+	width:90px;
+	height:90px;
 }
-.fab {
-  font-size: 50px;
-  color: grey;
+
+.link
+{
+	border: 1px solid #333;
+	padding: 50px;
+	text-align:center;
+	margin:auto;
+	width:500px;
+	background-color: white;
+	text-decoration: none;
 }
-.end {
-  border: 1px solid #333;
-  padding: 50px;
-  text-align:center;
-  margin:auto;
-  width:500px;
-  background-color: white;
-  }
-  a {
-    text-decoration: none;
-  }
-  body {
-    font-family: 'Open Sans', sans-serif;
-  }
+
+.link ul li
+{
+	display: inline-block;
+	width: 0px 10px 0px 0px;
+	text-decoration: none;
+}
+
+.fab
+{
+	font-size: 50px;
+	color: grey;
+}
+
+.end
+{
+	border: 1px solid #333;
+	padding: 50px;
+	text-align:center;
+	margin:auto;
+	width:500px;
+	background-color: white;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+body
+{
+	font-family: 'Open Sans', sans-serif;
+}
